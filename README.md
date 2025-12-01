@@ -1,4 +1,5 @@
 Silver Companion (银发伴侣) AI助手项目说明
+
 Option 1: English Version (Recommended for GitHub)
 Silver Companion 👵👴🤖
 Silver Companion is a multimodal AI assistant designed specifically for the elderly. It leverages the Google Gemini Live API to create a natural, accessible, and empathetic "digital companion" that can interact via real-time voice and video.
@@ -66,4 +67,3 @@ Silver Companion 是一个专为老年人设计的多模态 AI 助手。它利�
 bash
 API_KEY=您的_Gemini_API_Key
 3. 使用现代浏览器打开 index.html，或通过简单的 HTTP 服务器（如 vite 或 http-server）运行。
-|（注：文档部分内容可能由 AI 生成)
